@@ -1,5 +1,5 @@
-let num_A = 2;
-let num_B = 1;
+const num_A = 2;
+const num_B = 1;
 const operacoes = ["soma", "subtração", "divisão", "multiplicação"];
 
 
